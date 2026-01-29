@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm a MERN Stack Developer
 
-<!--
-**mernwithme/mernwithme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate MERN Stack Developer with hands-on experience building full-stack web applications.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- React
+- Node.js, Express.js
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- MERN Authentication App
+- React CRUD Application
+- REST API using Node & MongoDB
+
+## 🎯 Career Goal
+Looking for an entry-level software developer role to apply my skills and grow professionally.
+
+📫 GitHub: https://github.com/mernwithme
