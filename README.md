@@ -9,7 +9,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 
 **Frontend**
 - HTML5, CSS3
-- JavaScript, TypeScript
+- JavaScript
 - Tailwind CSS
 - React
 
