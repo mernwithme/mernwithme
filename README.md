@@ -1,20 +1,56 @@
 # 👋 Hi, I'm a MERN Stack Developer
 
-🚀 Passionate MERN Stack Developer with hands-on experience building full-stack web applications.
+I'm a passionate and motivated **MERN Stack Developer** with hands-on experience in building full-stack and frontend web applications.  
+I enjoy turning ideas into real-world applications and continuously improving my development skills.
 
-## 🛠️ Skills
-- HTML, CSS, JavaScript
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- HTML5, CSS3
+- JavaScript, TypeScript
+- Tailwind CSS
 - React
-- Node.js, Express.js
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
 - MongoDB
+
+**Tools**
 - Git & GitHub
+- VS Code
 
-## 📂 Projects
-- MERN Authentication App
-- React CRUD Application
-- REST API using Node & MongoDB
+---
 
-## 🎯 Career Goal
-Looking for an entry-level software developer role to apply my skills and grow professionally.
+## 📌 Featured Projects
 
-📫 GitHub: https://github.com/mernwithme
+### 🔹 Eventify – Event Management System
+A modern event management web application built using **TypeScript and Tailwind CSS**.  
+👉 Repo: `eventify-event-management-system`
+
+### 🔹 Room Reservation System (Console Based)
+A console-based application to manage room bookings and availability.  
+👉 Repo: `room-reservation-system`
+
+### 🔹 Developer Portfolio
+A personal portfolio website showcasing my projects and skills.  
+👉 Repo: `developer-portfolio`
+
+---
+
+## 🎯 Career Objective
+Seeking an **entry-level software developer** role where I can apply my technical skills, learn from real-world projects, and grow as a developer.
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/mernwithme  
+- LinkedIn: *(add your LinkedIn profile link here)*
+
+---
+
+⭐ Feel free to explore my repositories and give a star if you like my work!
