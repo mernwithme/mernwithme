@@ -49,7 +49,7 @@ Seeking an **entry-level software developer** role where I can apply my technica
 
 ## 📫 Contact Me
 - GitHub: https://github.com/mernwithme  
-- LinkedIn: *(add your LinkedIn profile link here)*
+- LinkedIn:https://www.linkedin.com/in/nithish-kumar-518099301/
 
 ---
 
