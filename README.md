@@ -10,7 +10,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 **Frontend**
 - HTML5, CSS3
 - JavaScript
-- Tailwind CSS
+- Bootstrap
 - React
 
 **Backend**
@@ -19,6 +19,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 
 **Database**
 - MongoDB
+- MySQL
 
 **Tools**
 - Git & GitHub
@@ -29,7 +30,7 @@ I enjoy turning ideas into real-world applications and continuously improving my
 ## 📌 Featured Projects
 
 ### 🔹 Eventify – Event Management System
-A modern event management web application built using **TypeScript and Tailwind CSS**.  
+A modern event management web application built using **React js and Bootstrap**.  
 👉 Repo: `eventify-event-management-system`
 
 ### 🔹 Room Reservation System (Console Based)
