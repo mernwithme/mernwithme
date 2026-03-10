@@ -29,6 +29,10 @@ I enjoy turning ideas into real-world applications and continuously improving my
 
 ## 📌 Featured Projects
 
+### 🔹 ExpenseIQ – Smart Expense Tracker
+ExpenseIQ is a full-stack expense tracking web application built using the MERN stack. It helps users manage their spending, track budgets, and gain insights into their financial habits.  
+👉 Repo: `eventify-event-management-system`
+
 ### 🔹 Eventify – Event Management System
 A modern event management web application built using **React js and Bootstrap**.  
 👉 Repo: `eventify-event-management-system`
