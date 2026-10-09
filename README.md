@@ -12,57 +12,52 @@
 
 ---
 
-### 🖥️ nithish@fullstack-dev
+### 🖥️ `nithish@mernwithme`
+
+<table>
+<tr>
+<td width="45%" valign="middle">
 
 ```text
-             .-+#%%%%%%%%%%%#*=:.
-            *%%%%%%%%%%%%%%%%%%%*====-
-          :#@@@%%%%%%%%%%%%%%%%%%@%##+:.
-         =%@@@@%%%%%%%%%%*##%%%@@@@%%*-.
-        -%%@@@@%%%%%##*+====++**%%%@%*:
-        +@@%@@@%%*+==---------==*%%@%#+.
-        =@%%%%**+==-------==+++++#%%%#*=
-         *@%%****+*+=----=++++=+++%%#=:
-         .#%#+++++*=++==-==+*++=-=*#-:
-        .==#*+======++=---==------=+---
-        .*=+*+=----==+=:-==-:::::-+*==-
-         =++#*==---+*#*****++=---=**--.
-          -=+#*+==*#*+==--=+**==+*#-.
-             :##*+*+++======-+++#%+
-              -%%#%#***#**+**###%#.
-               +#%%%%%#####%%%%#+=.
-              .=++*##%%%%%%#**==-=:-+.
-            .=-*+===++=====--::-=: .#%*-
-           -%+.=*=---=-----:::--.  :%%%%#*++-:.
-     .:=+*#%@=. =*=----------=:   .*%%%%%%%%%%%##+=-:.
- :=+#%%@%%%%%=.::=*+=--------:.   -%%%%%%%%%%%%%%%%%%%
-%%@@%%%%%%%%%-+*=::==--===. .-=-..#%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%=-:......-++-  .  ..=%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%=.      . ..       :#%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%+..     .         .+%#%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%*..               -%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%#:               .#%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%+              .+%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%#.             -%%%%%%%%%%%%%%%%%%%%%%%@
-%%%%%%%%%%%%%%%=           ..#%%%%%%%%%%%%%%%%%%%%%%%@
-................................................................................   nithish@fullstack-dev
-................................................................................   ----------------------
-................................................................................   OS-Focus...... Windows / Linux
-................................................................................   Role.......... Full Stack Developer
-................................................................................   Stack......... MERN + Java
-................................................................................   Frontend...... React, JavaScript, Tailwind
-................................................................................   Backend....... Node.js, Express.js
-................................................................................   Database...... MongoDB, MySQL
-................................................................................   Security...... JWT, Role-Based Access
-................................................................................   APIs.......... REST APIs
-................................................................................   Cloud......... AWS
-................................................................................   Deployment.... Vercel, AWS
-................................................................................   Interests..... DSA, LeetCode, Web Apps
-................................................................................   Mission....... Build. Learn. Deploy. Scale.
-................................................................................   Portfolio..... personal-portfolio-five-blue-cl7wkw4q6k.vercel.app
-................................................................................   GitHub........ github.com/YOUR_GITHUB_USERNAME
-................................................................................   LinkedIn...... nithish-kumar-518099301
+          .-""""-.
+        .'  .--.  '.
+       /   /    \   \
+      |   | 0  0 |   |
+      |   |  __  |   |
+       \   \____/   /
+        '.        .'
+          '-.__.-'
+       .---/====\---.
+      /    /####\    \
+     /____/######\____\
+     |    FULL STACK   |
+     |    DEVELOPER    |
 ```
+
+</td>
+<td width="55%" valign="middle">
+
+```text
+nithish@mernwithme
+-----------------------------
+OS........ Windows / Linux
+Role...... Full Stack Developer
+Stack..... MERN + Java
+Frontend.. React, JavaScript
+Backend... Node.js, Express
+Database.. MongoDB, MySQL
+Security.. JWT, REST APIs
+Cloud..... AWS
+Deploy.... Vercel, AWS
+Learning.. Java DSA, Cloud
+Mission... Build. Learn. Deploy.
+GitHub.... github.com/mernwithme
+LinkedIn.. nithish-kumar-518099301
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -92,7 +87,7 @@
 <a href="mailto:nithishkumar6442@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/mernwithme">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
@@ -218,20 +213,20 @@ I practice problem-solving in Java and am working through core data structures a
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mernwithme&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mernwithme&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=mernwithme&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mernwithme&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mernwithme&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -247,7 +242,7 @@ I practice problem-solving in Java and am working through core data structures a
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/mernwithme/mernwithme/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
