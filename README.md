@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=780&lines=MERN+Stack+Developer+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;Java+DSA+Learner+%E2%98%95;AWS+Deployment+Enthusiast+%E2%98%81%EF%B8%8F;Building+Real-World+Applications+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG"/>
 
-<a href="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00c9ff&style=for-the-badge" alt="Profile Views"/>
+<a href="https://komarev.com/ghpvc/?username=mernwithme">
+<img src="https://komarev.com/ghpvc/?username=mernwithme&label=Profile%20Views&color=00c9ff&style=for-the-badge" alt="Profile Views"/>
 </a>
 
 </div>
@@ -239,7 +239,7 @@ I practice problem-solving in Java and am working through core data structures a
 ## 🧩 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Statistics"/>
+<img src="https://leetcard.jacoblin.cool/mernX?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Statistics"/>
 </p>
 
 ---
