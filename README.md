@@ -162,9 +162,13 @@ An AI-powered fashion project focused on smart style recommendations and persona
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mernwithme/mernwithme/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-</p>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/mernwithme/mernwithme/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</div>
 
 ---
 
