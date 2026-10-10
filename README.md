@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;Java+%26+DSA+Learner+%E2%98%95;Building+Real+World+Web+Applications+%F0%9F%9B%A0%EF%B8%8F;Learning+AWS+Deployment+%E2%98%81%EF%B8%8F"/>
 
-<img src="https://komarev.com/ghpvc/?username=mernwithme&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/mernwithme?label=Followers&style=for-the-badge&color=0e75b6"/>
 
 </div>
@@ -142,13 +141,27 @@ An AI-powered fashion project focused on smart style recommendations and persona
 <img src="https://streak-stats.demolab.com?user=mernwithme&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mernwithme&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
+## 📈 GitHub Activity Graph
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mernwithme&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+<div align="center">
+  <a href="https://github.com/mernwithme">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=mernwithme&theme=tokyo-night&hide_border=true"
+      width="95%"
+      alt="GitHub Activity Graph"
+    />
+  </a>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mernwithme&theme=tokyonight"
+    width="95%"
+    alt="GitHub Trophies"
+  />
+</div>
 
 ---
 
@@ -156,7 +169,7 @@ An AI-powered fashion project focused on smart style recommendations and persona
 
 <div align="center">
   <img
-    src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito"
+    src="https://leetcard.jacoblin.cool/mernX?theme=dark&font=Nunito"
     alt="LeetCode Statistics"
     width="500"
   />
