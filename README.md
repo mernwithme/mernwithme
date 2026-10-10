@@ -134,8 +134,8 @@ An AI-powered fashion project focused on smart style recommendations and persona
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mernwithme&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mernwithme&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -163,7 +163,7 @@ An AI-powered fashion project focused on smart style recommendations and persona
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/mernwithme/mernwithme/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 </p>
 
 ---
