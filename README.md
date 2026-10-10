@@ -139,15 +139,15 @@ An AI-powered fashion project focused on smart style recommendations and persona
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mernwithme&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mernwithme&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mernwithme&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -155,7 +155,7 @@ An AI-powered fashion project focused on smart style recommendations and persona
 ## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito" alt="LeetCode statistics"/>
+<img src="https://leetcard.jacoblin.cool/mernX?theme=dark&font=Nunito" alt="LeetCode statistics"/>
 </p>
 
 ---
