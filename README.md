@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%9A%80;Java+%26+DSA+Learner+%E2%98%95;Building+Real+World+Web+Applications+%F0%9F%9B%A0%EF%B8%8F;Learning+AWS+Deployment+%E2%98%81%EF%B8%8F"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=mernwithme&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/mernwithme?label=Followers&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -36,7 +36,7 @@
 <a href="mailto:nithishkumar6442@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/mernwithme">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -154,9 +154,13 @@ An AI-powered fashion project focused on smart style recommendations and persona
 
 ## 🧠 LeetCode Stats
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/mernX?theme=dark&font=Nunito" alt="LeetCode statistics"/>
-</p>
+<div align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito"
+    alt="LeetCode Statistics"
+    width="500"
+  />
+</div>
 
 ---
 
