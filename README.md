@@ -141,17 +141,20 @@ An AI-powered fashion project focused on smart style recommendations and persona
 <img src="https://streak-stats.demolab.com?user=mernwithme&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mernwithme)](https://github.com/mernwithme)
+<div align="center">
 
----
+<a href="https://github.com/mernwithme">
+  <img
+    src="https://img.shields.io/badge/GitHub-View%20My%20Activity-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View GitHub Activity"
+  />
+</a>
 
-## 🏆 GitHub Trophies
+</div>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mernwithme&theme=tokyonight)
-
----
+-
 
 ## 🧠 LeetCode Stats
 
