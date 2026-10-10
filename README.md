@@ -143,25 +143,13 @@ An AI-powered fashion project focused on smart style recommendations and persona
 
 ## 📈 GitHub Activity Graph
 
-<div align="center">
-  <a href="https://github.com/mernwithme">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=mernwithme&theme=tokyo-night&hide_border=true"
-      width="95%"
-      alt="GitHub Activity Graph"
-    />
-  </a>
-</div>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mernwithme)](https://github.com/mernwithme)
+
+---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=mernwithme&theme=tokyonight"
-    width="95%"
-    alt="GitHub Trophies"
-  />
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mernwithme&theme=tokyonight)
 
 ---
 
